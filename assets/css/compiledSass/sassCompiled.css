@@ -1,0 +1,12 @@
+.wraper {
+  width: 250px;
+  height: 200px;
+  background: #ccc; }
+  .wraper .child-wraper {
+    color: black; }
+
+.second {
+  color: green; }
+
+.extra {
+  columns: brown; }
